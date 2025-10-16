@@ -451,8 +451,8 @@ section.work .wrapper .portfolio .portfolio__wrapper .item {
 
 section.work .wrapper .portfolio .portfolio__wrapper a img {
     display: block;
-    width: 10%;
-    height: 10%;
+    width: 80%;
+    height: 80%;
     object-fit: cover;
 }
 section.work .wrapper .slider__wrapper .icon__wrap {
